@@ -13,7 +13,7 @@ CatalogContent:
 
 Paragraph element `<p>` contains and displays a block of text. They are among the most common text-based HTML elements.
 
-They are block-level, which means it is as wide as it's parent element and as tall as its content's height.
+They are block-level, which means it is as wide as its parent element and as tall as its content's height.
 
 ## Syntax
 
