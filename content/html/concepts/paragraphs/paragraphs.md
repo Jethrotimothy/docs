@@ -17,7 +17,7 @@ They are block-level, which means it is as wide as it's parent element and as ta
 
 ## Syntax
 
-The pargraph element is enclosed by an opening `<p>` tag and a closing `</p>` tag:
+The paragraph element is enclosed by an opening `<p>` tag and a closing `</p>` tag:
 
 ```html
 <p>
